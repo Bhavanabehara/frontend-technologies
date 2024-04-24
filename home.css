@@ -46,6 +46,7 @@
     text-align: center;
     margin-left:30%;
     margin-top:20px;
+    boder-radius:10px;
     display: flex;
 }
 .homebutton:hover{
