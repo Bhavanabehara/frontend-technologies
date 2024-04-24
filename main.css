@@ -64,7 +64,6 @@
     padding-right: 15px;
     padding-top: 15px;
     padding-bottom:15px ;
-    background-color: darkblue;
     color: white;
     font-weight: 20px;
     text-align: center;
@@ -72,3 +71,10 @@
     margin-bottom:20px;
     border-radius: 10px;
 }
+.mainbutton:hover{
+    background-color:rgb(32, 32, 102); 
+      color: black; 
+      border: 2px solid rgb(240, 181, 130);
+      transition: 0.3s;
+      cursor: pointer;
+    }
