@@ -42,11 +42,16 @@
     padding-right: 15px;
     padding-top: 15px;
     padding-bottom:15px ;
-    background-color: darkblue;
-    color: whitesmoke;
     font-weight: 20px;
     text-align: center;
     margin-left:30%;
     margin-top:20px;
     display: flex;
+}
+.homebutton:hover{
+background-color:rgb(32, 32, 102); 
+  color: black; 
+  border: 2px solid rgb(240, 181, 130);
+  transition: 0.3s;
+  cursor: pointer;
 }
